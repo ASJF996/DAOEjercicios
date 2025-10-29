@@ -1,0 +1,20 @@
+{
+  "dao_type": "SQLserver",
+  "SQLserver": {
+    "server": "PAN-01",
+    "name": "sa",
+    "password": "123",
+    "database": "EstudiantesDB"
+  },
+  "txt": {
+    "filepath": "carreras.txt"
+  },
+  "xml": {
+    "filepath": "carreras.xml"
+  },
+  "excel": {
+    "filepath": "carreras.xlsx",
+    "sheetname": "Carreras"
+  }
+
+}
